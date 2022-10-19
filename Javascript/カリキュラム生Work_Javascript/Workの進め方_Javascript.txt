@@ -1,0 +1,10 @@
+このWorkは「Javascript見本_pc.pdf」および「Javascript見本_sp.pdf」を見本に、実装を進めてください。
+Javascriptの動きの部分は講師に確認を取りながら実装してください。
+
+
+画面幅400pxをブレイクポイントにレスポンシブ対応をしてください。
+401px以上の見本が「Javascript見本_pc.pdf」、400px以下の見本が「Javascript見本_sp.pdf」となります。
+
+
+補足
+・課題用の画像はimgフォルダに入っているものを使ってください。
