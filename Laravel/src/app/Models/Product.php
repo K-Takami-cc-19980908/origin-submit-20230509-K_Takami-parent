@@ -29,10 +29,6 @@ class Product extends Model
         return $this->belongsTo('App\Models\Category');
     }
 
-    public function favorites(){
-        return $this->hasMany('App\Models\Favorite');
-    }
-
     public function getCategoryAttribute(){
         return Category::find($this->category_id)->category;
     }

@@ -28,7 +28,7 @@ class RegistProductRequest extends FormRequest
             'category_id' => ['required', new CheckCategoryIdRule()],
             'name' => 'required|max:255',
             'price' => 'required|digits_between:1,9',
-            'image_path' => 'required|max:255',
+            'image_path' => 'required',
         ];
     }
 }
