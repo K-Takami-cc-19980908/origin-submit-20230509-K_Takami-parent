@@ -28,6 +28,7 @@ Code Strategyで習得した知識をもとに、Workに取り組んでいただ
 
 カリキュラム導入のときに簡単に説明したと思いますが、Code Strategyについての概要を書いていきます。  
 まだCode Strategyに登録していないという方は、講師に連絡お願いします！
+リンクは[こちら](https://study.code-strategy.app/login/)です。
 
 #### 概要  
 
