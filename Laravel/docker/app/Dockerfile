@@ -14,3 +14,6 @@ COPY --from=composer:2.0 /usr/bin/composer /usr/bin/composer
 RUN apt-get install -y nodejs npm && npm install n -g && n 14.15.3
 
 WORKDIR /app
+
+# laravel用のコマンド実行
+RUN composer update && cp .env.example .env && php artisan key:generate && chmod -R 777 storage bootstrap/cache && php artisan storage:link
