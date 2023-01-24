@@ -7,6 +7,12 @@ userテーブルを作成するためのmigrationファイルは実装済みで�
 管理ユーザーを作成するためのSeederを実装しているので実行してください。
 「role」が1のユーザーを管理ユーザー、0のユーザーを一般ユーザーとして実装しています。
 
+## 画面イメージ
+Laravel\img\Registration\会員登録.png
+Laravel\img\Registration\会員登録_確認.png
+Laravel\img\Registration\会員登録_戻る.png
+Laravel\img\Registration\会員登録_完了.png
+
 ## 管理画面
 管理ユーザーのみログインできるよう実装してください。
 

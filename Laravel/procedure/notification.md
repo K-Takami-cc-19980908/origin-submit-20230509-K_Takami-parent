@@ -3,6 +3,17 @@
 ## migration
 お知らせテーブルを作成するためのmigrationファイルを作成してください。
 
+## 画面イメージ
+
+### 管理画面
+Laravel\img\Admin\管理画面_お知らせ一覧.png
+Laravel\img\Admin\管理画面_お知らせ登録.png
+Laravel\img\Admin\管理画面_お知らせ詳細.png
+
+### ユーザー画面
+Laravel\img\User\ユーザー画面_お知らせ一覧.png
+Laravel\img\User\ユーザー画面_お知らせ詳細.png
+
 ## 管理画面
 お知らせ一覧、詳細、登録、更新、削除の画面・機能を作成してください。
 登録、更新のときのバリデーションも忘れず実装してください。
