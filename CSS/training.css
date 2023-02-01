@@ -20,7 +20,7 @@ border:1px solid;
 img{
   border-radius: 55px;
 }
-.hover:hover{
+span:hover{
   color: red;
 }
 ul{
@@ -87,13 +87,13 @@ background-color: lightgray;
   background-color: lightgray;
 }
 .rhombus_left_bottom{
-position: absolute;
-width: 71.4px;
-height: 71.4px;
-left: 14.3px;
-bottom: 114.3px;
-transform: rotate(45deg);
-background-color: lightgray;
+  position: absolute;
+  width: 71.4px;
+  height: 71.4px;
+  left: 14.3px;
+  bottom: 114.3px;
+  transform: rotate(45deg);
+  background-color: lightgray;
 }
 .circle_right_bottom{
   position: absolute;
@@ -105,11 +105,11 @@ background-color: lightgray;
   background-color: lightgray;
 }
 .rhombus_right_bottom{
-position: absolute;
-width: 71.4px;
-height: 71.4px;
-right: 114.3px;
-bottom: 14.3px;
-transform: rotate(45deg);
-background-color: lightgray;
+  position: absolute;
+  width: 71.4px;
+  height: 71.4px;
+  right: 114.3px;
+  bottom: 14.3px;
+  transform: rotate(45deg);
+  background-color: lightgray;
 }
