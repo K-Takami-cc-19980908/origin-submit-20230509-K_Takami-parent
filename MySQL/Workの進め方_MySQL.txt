@@ -16,6 +16,8 @@
 
 SQL課題
 ・MySQLのworkのフォルダにある「mysql_work.sql」をDBクライアントツールにインポートして、見本サイトの「SQL問題」に取り組んでください。
+※見本サイトのURLは以下になります。
+https://work.code-strategy.app/work/mysql/sql
 
 提出
 ・実装に加えて以下のファイルも忘れずに提出してください。
